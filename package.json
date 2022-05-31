@@ -1,0 +1,29 @@
+{
+  "name": "net.funkysheep.unity.types",
+  "displayName": "FunkySheep Unity Types Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Types Library",
+  "keywords": [
+    "Types",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "types",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Types/blob/main/CHANGELOG.md",
+  "dependencies": {
+    "net.funkysheep.unity.simplejson": "0.1.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}

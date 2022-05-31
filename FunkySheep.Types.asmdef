@@ -1,0 +1,16 @@
+{
+    "name": "FunkySheep.Types",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c242ce1ceb051254a9502732b4939706"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
