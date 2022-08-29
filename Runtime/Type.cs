@@ -18,5 +18,10 @@ namespace FunkySheep.Types
         {
           this.value = value;
         }
+
+        public void SwitchReset()
+        {
+          this.reset = !this.reset;
+        }
     }
 }

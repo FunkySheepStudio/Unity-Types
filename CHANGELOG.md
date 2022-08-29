@@ -1,3 +1,7 @@
+## Version 0.1.3 (August 29, 2022)
+- **Features**
+  - Add switch reset function
+
 ## Version 0.1.2 (August 29, 2022)
 - **Features**
   - Add Setter
