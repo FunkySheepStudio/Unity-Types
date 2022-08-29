@@ -13,5 +13,10 @@ namespace FunkySheep.Types
     public abstract class Type<T> : Type
     {
         public T value;
+
+        public void Set(T value)
+        {
+          this.value = value;
+        }
     }
 }
